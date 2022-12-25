@@ -1,5 +1,5 @@
 export default {
-  icon: `<i class="fa-solid fa-eye-low-vision"></i>`,
+  icon: `<i class="fa-solid fa-unlock fa-lg"></i>`,
   name: {
     en: "Password field toggle",
     vi: "Tắt/mở xem mật khẩu bị ẩn",
@@ -9,7 +9,7 @@ export default {
     vi: "Bạn sẽ xem được mật khẩu bị ẩn trong khung đăng nhập",
   },
 
-  func: function () {
+  onClick: function () {
     // Show password in alert
     // var s, F, j, f, i;
     // s = "";
