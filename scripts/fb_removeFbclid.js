@@ -18,7 +18,7 @@ export default {
     !(function (e, c) {
       var o = new URL(e.top.location.href);
       o.searchParams.has("fbclid") &&
-        (o.searchParams["delete"]("fbclid"), alert('abc'), e.top.location.replace(o));
+        (o.searchParams["delete"]("fbclid"), e.top.location.replace(o));
     })(window, chrome);
   },
 };
