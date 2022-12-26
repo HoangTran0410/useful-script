@@ -12,13 +12,10 @@ export default {
   whiteList: ["http://*/*", "https://*/*"],
 
   onDocumentStart: () => {
-    // Source code copy from J2team security
-
-    "use strict";
-    !(function (e, c) {
-      var o = new URL(e.top.location.href);
-      o.searchParams.has("fbclid") &&
-        (o.searchParams["delete"]("fbclid"), e.top.location.replace(o));
-    })(window, chrome);
+    var url = new URL(window.top.location.href);
+    if (url.searchParams.has("fbclid")) {
+      url.searchParams.delete("fbclid");
+      window.top.location.replace(url);
+    }
   },
 };
