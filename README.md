@@ -74,7 +74,7 @@ Phiên bản hiện tại:
 
 Dự kiến extension useful-script này sẽ bao gồm cả chức năng của [RevealDeletedFBMessages](https://github.com/HoangTran0410/RevealDeletedFBMessages) và [FBMediaDownloader](https://github.com/HoangTran0410/FBMediaDownloader)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Useful-Scripts-Extension/useful-script,HoangTran0410/FBMediaDownloader,HoangTran0410/RevealDeletedFBMessages&type=Date)](https://star-history.com/#Useful-Scripts-Extension/useful-script&HoangTran0410/FBMediaDownloader&HoangTran0410/RevealDeletedFBMessages&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=Useful-Scripts-Extension/useful-script,HoangTran0410/FBMediaDownloader,HoangTran0410/RevealDeletedFBMessages&type=Date)](https://star-history.dera.page/#Useful-Scripts-Extension/useful-script&HoangTran0410/FBMediaDownloader&HoangTran0410/RevealDeletedFBMessages&Date)
 
 ## Dành cho dev (Demo)
 
