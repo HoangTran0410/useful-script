@@ -73,7 +73,7 @@ Current Versions:
 
 Expected that this useful-script extension will include the functions of [RevealDeletedFBMessages](https://github.com/HoangTran0410/RevealDeletedFBMessages) and [FBMediaDownloader](https://github.com/HoangTran0410/FBMediaDownloader)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Useful-Scripts-Extension/useful-script,HoangTran0410/FBMediaDownloader,HoangTran0410/RevealDeletedFBMessages&type=Date)](https://star-history.com/#Useful-Scripts-Extension/useful-script&HoangTran0410/FBMediaDownloader&HoangTran0410/RevealDeletedFBMessages&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=Useful-Scripts-Extension/useful-script,HoangTran0410/FBMediaDownloader,HoangTran0410/RevealDeletedFBMessages&type=Date)](https://star-history.dera.page/#Useful-Scripts-Extension/useful-script&HoangTran0410/FBMediaDownloader&HoangTran0410/RevealDeletedFBMessages&Date)
 
 ## For developer (Demo)
 
